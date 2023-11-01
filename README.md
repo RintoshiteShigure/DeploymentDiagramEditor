@@ -47,22 +47,13 @@
 
 ## Источники и справочники
 
-1. It-IATU [Электронный ресурс] / https://it-iatu.ru/is/informacionnye-tehnologii/diagramma_razvertyvaniya_i_ee_komponenty – Диаграмма развёртывания [1.06.2022]
-
-2. Visual Paradigm [Электронный ресурс] / http://sp.cmc.msu.ru/courses/ooap/exerb2021.html [1.06.2022]
-
-3. Cacoo [Электронный ресурс] / https://startpack.ru/application/cacoo-diagrams [1.06.2022]
-
-4. Visio [Электронный ресурс] / https://support.microsoft.com/ru-ru/office/ – [1.06.2022]
-
-5. NOP [Электронный ресурс] / https://nuancesprog.ru/p/12019/ – 4 типа архитектуры программного обеспечения [1.06.2022] 
-
-6. ВикипедиЯ – свободная энциклопедия [Электронный ресурс] / https://ru.wikipedia.org/wiki/JavaFX [1.06.2022]
-
-7. ВикипедиЯ – свободная энциклопедия [Электронный ресурс] / https://ru.wikipedia.org/wiki/МодельДанных [1.06.2022]
-
-8. Избачков, Ю. С. Информационные системы [Текст] : [учеб. пособие для вузов по направл. "Информ. и вычисл. техника"] / Ю. С. Избачков, В. Н. Петров. - 2-е изд. - СПб. : Питер, 2008. - 655 с.
-
-9. Informicus [Электронный ресурс] / https://www.informicus.ru/mps03.html [1.06.2022]
-
-10. Qalight [Электронный ресурс] / https://qalight.ua/ruterroriststate/baza-znaniy/test-case/ [1.06.2022]?
+1. It-IATU [Электронный ресурс] / https://it-iatu.ru/is/informacionnye-tehnologii/diagramma_razvertyvaniya_i_ee_komponenty – Диаграмма развёрты-вания [02.03.2023]
+2. Visual Paradigm [Электронный ресурс] / http://sp.cmc.msu.ru/courses/ooap/exerb2021.html [06.03.2023]
+3. Cacoo [Электронный ресурс] / https://startpack.ru/application/cacoo-diagrams [06.03.2023]
+4. Visio [Электронный ресурс] / https://support.microsoft.com/ru-ru/office/ – [06.03.2023]
+5. NOP [Электронный ресурс] / https://nuancesprog.ru/p/12019/ – 4 типа архитектуры программного обеспечения [07.03.2023] 
+6. ВикипедиЯ – свободная энциклопедия [Электронный ресурс] / https://ru.wikipedia.org/wiki/JavaFX [17.03.2023]
+7. ВикипедиЯ – свободная энциклопедия [Электронный ресурс] / https://ru.wikipedia.org/wiki/МодельДанных [05.04.2023]
+8. Избачков, Ю. С. Информационные системы [Текст] : [учеб. пособие для вузов по направл. "Информ. и вычисл. техника"] / Ю. С. Избачков, В. Н. Пет-ров. - 2-е изд. - СПб. : Питер, 2008. - 655 с.
+9. Informicus [Электронный ресурс] / https://www.informicus.ru/mps03.html [15.04.2023]
+10. Qalight [Электронный ресурс] / https://qalight.ua/ruterroriststate/baza-znaniy/test-case/ [20.04.2023] 
