@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.programos.deploymentdiagrameditor.MainController">
+   <top>
+       <MenuBar BorderPane.alignment="CENTER">
+           <Menu mnemonicParsing="false" text="File">
+               <MenuItem mnemonicParsing="false" onAction="#openAsFile" text="Open as file" />
+               <MenuItem mnemonicParsing="false" onAction="#saveAsPicture" text="Save as picture" />
+               <MenuItem mnemonicParsing="false" onAction="#saveAsFile" text="Save as file" />
+           </Menu>
+           <Menu mnemonicParsing="false" text="Edit">
+               <MenuItem mnemonicParsing="false" onAction="#reloadDesktop" text="Delete" />
+           </Menu>
+           <Menu mnemonicParsing="false" text="Help">
+               <MenuItem mnemonicParsing="false" onAction="#help" text="About" />
+           </Menu>
+         <effect>
+            <DropShadow />
+         </effect>
+       </MenuBar>
+   </top>
+   <left>
+       <ToolBar orientation="VERTICAL" prefHeight="374.0" prefWidth="88.0" BorderPane.alignment="TOP_CENTER">
+           <Label prefHeight="18.0" prefWidth="62.0" text="Элементы" textAlignment="RIGHT" />
+           <VBox alignment="CENTER" prefHeight="78.0" prefWidth="118.0" spacing="5.0" style="-fx-border-radius: 10; -fx-background-radius: 10; -fx-background-color: white;">
+               <effect>
+                   <DropShadow blurType="TWO_PASS_BOX">
+                       <color>
+                           <Color red="0.5157894492149353" green="0.5005068182945251" blue="0.5005068182945251" />
+                       </color>
+                   </DropShadow>
+               </effect>
+            <children>
+               <ToggleButton fx:id="artifactCreator" mnemonicParsing="false" text="Артефакт">
+                  <toggleGroup>
+                     <ToggleGroup fx:id="creators" />
+                  </toggleGroup>
+               </ToggleButton>
+               <ToggleButton fx:id="nodeCreator" mnemonicParsing="false" prefHeight="25.0" prefWidth="70.0" text="Узел" toggleGroup="$creators" />
+            </children>
+            <padding>
+               <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+            </padding>
+           </VBox>
+         <effect>
+            <DropShadow height="0.0" radius="4.75" spread="0.08" />
+         </effect>
+       </ToolBar>
+   </left>
+   <center>
+      <Pane fx:id="desktop" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>
